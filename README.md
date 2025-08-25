@@ -14,7 +14,19 @@ This repository contains my coursework for UC Berkeley’s Data Science W200 (MI
 
 ---
 
+
 ## Major Projects & Assignments
+### NFL Pass Defense EDA
+- **Description:**  
+	This folder contains an exploratory data analysis (EDA) project focused on NFL pass defense statistics. The analysis includes data cleaning, feature engineering, and visualization to uncover trends and insights about team and player defensive performance in the NFL. Jupyter Notebooks and supporting scripts are provided for reproducibility.
+- **Key Skills:**  
+	Data wrangling, exploratory data analysis, pandas, data visualization, sports analytics, and reporting.
+
+### Report Folder
+- **Description:**  
+	The `report` folder contains final project reports, including polished PDFs and supporting documentation for major assignments and capstone projects. These reports summarize findings, methodologies, and key takeaways from the analyses performed in this repository.
+- **Key Skills:**  
+	Technical writing, data storytelling, summarization of results, and professional reporting.
 
 ### Project 1: Car Loan Schedule Calculator
 - **Description:**  
